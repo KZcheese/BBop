@@ -245,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2018-02-13 22:03:18 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane": {
     "criteria": {
       "has_the_recipe": "2018-01-31 18:19:58 -0500"
@@ -653,6 +659,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2018-02-13 22:03:49 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_the_recipe": "2018-01-31 18:19:58 -0500"
@@ -667,8 +679,16 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "xeric_shrubland": "2018-02-13 23:29:05 -0500",
       "bayou": "2018-01-31 18:20:12 -0500",
-      "lush_swamp": "2018-01-31 18:19:58 -0500"
+      "marsh": "2018-02-04 00:13:04 -0500",
+      "coral_reef": "2018-02-13 22:43:08 -0500",
+      "lush_desert": "2018-02-13 23:28:15 -0500",
+      "mangrove": "2018-02-13 23:35:11 -0500",
+      "cherry_blossom_grove": "2018-02-13 23:14:18 -0500",
+      "kelp_forest": "2018-02-13 22:43:17 -0500",
+      "lush_swamp": "2018-01-31 18:19:58 -0500",
+      "gravel_beach": "2018-02-13 23:08:26 -0500"
     },
     "done": false
   },
@@ -723,6 +743,12 @@
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_the_recipe": "2018-01-31 18:19:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2018-02-03 23:32:43 -0500"
     },
     "done": true
   },
@@ -804,6 +830,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2018-02-03 23:36:05 -0500"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/white_wool_from_cattails": {
     "criteria": {
       "has_the_recipe": "2018-01-31 18:19:58 -0500"
@@ -869,6 +901,12 @@
       "has_the_recipe": "2018-01-31 18:19:58 -0500"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "zombie": "2018-02-04 00:19:20 -0500"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
@@ -1218,6 +1256,13 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/terrestrial_artifact": {
+    "criteria": {
+      "malachite": "2018-02-04 01:01:23 -0500",
+      "emerald": "2018-02-13 22:02:21 -0500"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_the_recipe": "2018-01-31 18:19:58 -0500"
@@ -1440,6 +1485,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2018-02-03 23:33:59 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_banner": {
     "criteria": {
       "has_the_recipe": "2018-01-31 18:19:58 -0500"
@@ -1512,6 +1563,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "zombie": "2018-02-04 00:19:20 -0500"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/coarse_sandy_dirt": {
     "criteria": {
       "has_the_recipe": "2018-01-31 18:19:58 -0500"
@@ -1553,6 +1610,19 @@
       "has_the_recipe": "2018-01-31 18:19:58 -0500"
     },
     "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2018-02-13 23:08:39 -0500",
+      "deep_ocean": "2018-02-03 23:32:16 -0500",
+      "beaches": "2018-02-13 22:46:25 -0500",
+      "taiga": "2018-02-13 23:09:46 -0500",
+      "taiga_hills": "2018-02-13 23:09:26 -0500",
+      "ocean": "2018-02-03 23:29:04 -0500",
+      "river": "2018-02-13 22:46:02 -0500",
+      "desert": "2018-02-13 23:31:42 -0500"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/book": {
     "criteria": {
@@ -2262,6 +2332,14 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "porkchop": "2018-02-03 23:48:05 -0500",
+      "apple": "2018-02-13 22:22:06 -0500",
+      "carrot": "2018-02-06 23:44:29 -0500"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_the_recipe": "2018-01-31 18:19:58 -0500"
@@ -2460,6 +2538,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2018-02-03 23:52:14 -0500"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/lime_dye_from_glowshroom": {
     "criteria": {
       "has_the_recipe": "2018-01-31 18:19:58 -0500"
@@ -2547,6 +2631,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_the_recipe": "2018-01-31 18:19:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2018-02-03 23:38:10 -0500"
     },
     "done": true
   },
@@ -2730,6 +2820,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2018-02-13 22:03:13 -0500"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/peridot": {
     "criteria": {
       "has_the_recipe": "2018-01-31 18:19:58 -0500"
@@ -2817,6 +2913,12 @@
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_the_recipe": "2018-01-31 18:19:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2018-02-04 00:18:21 -0500"
     },
     "done": true
   },
@@ -3204,6 +3306,13 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "yellow_flower": "2018-02-03 23:29:26 -0500",
+      "red_flower": "2018-02-03 23:29:26 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_red_sandstone": {
     "criteria": {
       "has_the_recipe": "2018-01-31 18:19:58 -0500"
@@ -3213,6 +3322,12 @@
   "biomesoplenty:recipes/buildingblocks/ebony_stairs": {
     "criteria": {
       "has_the_recipe": "2018-01-31 18:19:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2018-02-04 00:03:50 -0500"
     },
     "done": true
   },
@@ -3657,6 +3772,12 @@
   "biomesoplenty:recipes/misc/gray_dye_from_ash": {
     "criteria": {
       "has_the_recipe": "2018-01-31 18:19:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2018-02-03 23:31:04 -0500"
     },
     "done": true
   },
