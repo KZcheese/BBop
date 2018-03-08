@@ -680,32 +680,49 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "oasis": "2018-02-21 00:48:40 -0500",
+      "woodland": "2018-02-24 16:20:35 -0500",
       "shrubland": "2018-02-20 18:44:36 -0500",
+      "xeric_shrubland": "2018-02-24 17:42:27 -0500",
       "steppe": "2018-02-21 01:31:46 -0500",
       "alps_foothills": "2018-02-21 00:51:34 -0500",
+      "fen": "2018-02-24 17:10:16 -0500",
       "bayou": "2018-02-20 18:33:49 -0500",
+      "mountain": "2018-02-24 16:27:46 -0500",
+      "phantasmagoric_inferno": "2018-03-03 22:01:59 -0500",
       "highland": "2018-02-21 01:30:27 -0500",
+      "volcanic_island": "2018-02-24 17:16:27 -0500",
+      "quagmire": "2018-02-24 22:33:00 -0500",
       "marsh": "2018-02-20 18:33:27 -0500",
       "chaparral": "2018-02-21 01:59:45 -0500",
       "flower_field": "2018-02-21 01:20:45 -0500",
       "wetland": "2018-02-21 01:17:45 -0500",
+      "mystic_grove": "2018-02-24 17:10:58 -0500",
       "cold_desert": "2018-02-21 00:52:53 -0500",
       "mountain_foothills": "2018-02-21 01:30:20 -0500",
       "maple_woods": "2018-02-21 01:14:43 -0500",
       "coral_reef": "2018-02-20 18:34:21 -0500",
+      "orchard": "2018-03-03 13:26:45 -0500",
       "moor": "2018-02-21 01:06:05 -0500",
       "land_of_lakes": "2018-02-21 01:16:59 -0500",
       "bog": "2018-02-21 00:50:46 -0500",
       "coniferous_forest": "2018-02-21 01:13:32 -0500",
+      "eucalyptus_forest": "2018-02-24 22:14:08 -0500",
       "outback": "2018-02-21 01:21:57 -0500",
+      "shield": "2018-02-25 00:26:41 -0500",
       "alps": "2018-02-21 00:59:11 -0500",
+      "wasteland": "2018-02-24 22:19:22 -0500",
       "mangrove": "2018-02-20 18:49:05 -0500",
+      "lush_desert": "2018-02-24 17:42:50 -0500",
       "boreal_forest": "2018-02-21 00:51:10 -0500",
+      "redwood_forest": "2018-02-24 17:05:21 -0500",
       "cherry_blossom_grove": "2018-02-20 21:00:24 -0500",
+      "visceral_heap": "2018-02-23 01:07:11 -0500",
       "snowy_forest": "2018-02-21 00:51:12 -0500",
       "seasonal_forest": "2018-02-21 01:13:01 -0500",
       "temperate_rainforest": "2018-02-21 00:50:29 -0500",
+      "dead_forest": "2018-02-24 22:42:54 -0500",
       "corrupted_sands": "2018-02-20 20:42:33 -0500",
+      "bamboo_forest": "2018-03-03 13:47:57 -0500",
       "kelp_forest": "2018-02-20 18:34:23 -0500",
       "dead_swamp": "2018-02-21 00:51:01 -0500",
       "glacier": "2018-02-21 00:54:47 -0500",
@@ -713,11 +730,17 @@
       "lush_swamp": "2018-02-20 12:35:31 -0500",
       "fungi_forest": "2018-02-20 20:44:04 -0500",
       "grassland": "2018-02-21 00:44:43 -0500",
+      "prairie": "2018-02-24 22:18:33 -0500",
       "snowy_coniferous_forest": "2018-02-21 01:05:20 -0500",
       "tundra": "2018-02-21 00:58:06 -0500",
       "undergarden": "2018-02-20 20:42:30 -0500",
       "gravel_beach": "2018-02-20 18:34:11 -0500",
-      "crag": "2018-02-21 01:17:52 -0500"
+      "grove": "2018-02-24 23:39:40 -0500",
+      "lavender_fields": "2018-03-03 13:41:33 -0500",
+      "rainforest": "2018-03-03 13:47:32 -0500",
+      "crag": "2018-02-21 01:17:52 -0500",
+      "brushland": "2018-02-24 17:43:28 -0500",
+      "ominous_woods": "2018-02-24 17:12:54 -0500"
     },
     "done": false
   },
@@ -790,6 +813,12 @@
   "biomesoplenty:recipes/decorations/mangrove_fence": {
     "criteria": {
       "has_the_recipe": "2018-02-20 12:35:31 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2018-02-23 01:47:25 -0500"
     },
     "done": true
   },
@@ -933,6 +962,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_pigman": "2018-03-06 18:47:59 -0500",
       "zombie_villager": "2018-02-21 01:28:10 -0500",
       "vindicator": "2018-02-20 19:19:46 -0500",
       "skeleton": "2018-02-21 01:25:05 -0500",
@@ -940,8 +970,13 @@
       "blaze": "2018-02-20 19:12:17 -0500",
       "silverfish": "2018-02-20 19:15:08 -0500",
       "zombie": "2018-02-20 19:22:27 -0500",
+      "cave_spider": "2018-03-08 00:34:01 -0500",
       "witch": "2018-02-21 01:15:30 -0500",
-      "creeper": "2018-02-21 01:24:13 -0500"
+      "guardian": "2018-02-22 02:11:21 -0500",
+      "spider": "2018-02-22 02:10:03 -0500",
+      "ghast": "2018-02-23 01:10:13 -0500",
+      "creeper": "2018-02-21 01:24:13 -0500",
+      "enderman": "2018-02-22 00:14:13 -0500"
     },
     "done": false
   },
@@ -1295,7 +1330,9 @@
   },
   "biomesoplenty:biomesoplenty/terrestrial_artifact": {
     "criteria": {
-      "emerald": "2018-02-20 18:04:17 -0500"
+      "peridot": "2018-02-23 01:25:21 -0500",
+      "emerald": "2018-02-20 18:04:17 -0500",
+      "sapphire": "2018-03-08 00:38:05 -0500"
     },
     "done": false
   },
@@ -1320,6 +1357,12 @@
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_the_recipe": "2018-02-20 12:35:31 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2018-03-03 22:13:35 -0500"
     },
     "done": true
   },
@@ -1521,6 +1564,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2018-02-23 00:33:49 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_banner": {
     "criteria": {
       "has_the_recipe": "2018-02-20 12:35:31 -0500"
@@ -1645,6 +1694,7 @@
     "criteria": {
       "ice_flats": "2018-02-21 00:54:28 -0500",
       "frozen_river": "2018-02-21 00:54:21 -0500",
+      "taiga_cold_hills": "2018-02-24 16:32:23 -0500",
       "forest": "2018-02-20 20:42:23 -0500",
       "swampland": "2018-02-20 18:47:23 -0500",
       "birch_forest": "2018-02-21 01:21:39 -0500",
@@ -1656,15 +1706,21 @@
       "forest_hills": "2018-02-21 01:32:42 -0500",
       "plains": "2018-02-20 18:47:14 -0500",
       "savanna": "2018-02-20 21:04:08 -0500",
+      "jungle_hills": "2018-03-03 13:50:20 -0500",
+      "jungle_edge": "2018-03-03 13:51:35 -0500",
       "mesa_clear_rock": "2018-02-21 01:22:29 -0500",
       "savanna_rock": "2018-02-21 01:30:10 -0500",
       "ice_mountains": "2018-02-21 00:54:35 -0500",
       "taiga": "2018-02-20 21:03:24 -0500",
       "taiga_hills": "2018-02-20 21:03:17 -0500",
+      "birch_forest_hills": "2018-02-25 00:44:28 -0500",
+      "taiga_cold": "2018-02-24 16:31:49 -0500",
       "ocean": "2018-02-20 18:02:28 -0500",
       "extreme_hills": "2018-02-21 00:53:47 -0500",
+      "roofed_forest": "2018-02-24 17:11:38 -0500",
       "cold_beach": "2018-02-21 01:04:36 -0500",
       "river": "2018-02-20 18:46:38 -0500",
+      "jungle": "2018-03-03 13:49:48 -0500",
       "desert": "2018-02-21 00:48:08 -0500",
       "stone_beach": "2018-02-21 01:07:28 -0500"
     },
@@ -2390,6 +2446,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "apple": "2018-02-26 20:25:23 -0500"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_the_recipe": "2018-02-20 12:35:31 -0500"
@@ -2563,6 +2625,12 @@
       "has_the_recipe": "2018-02-20 12:35:31 -0500"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "bred_chicken": "2018-02-22 00:28:04 -0500"
+    },
+    "done": false
   },
   "biomesoplenty:recipes/redstone/ebony_fence_gate": {
     "criteria": {
@@ -2972,6 +3040,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2018-02-24 17:00:16 -0500"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2018-02-21 01:32:08 -0500"
@@ -3104,6 +3178,12 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/flesh_and_blood": {
+    "criteria": {
+      "flesh": "2018-03-03 22:02:19 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_the_recipe": "2018-02-20 12:35:31 -0500"
@@ -3113,6 +3193,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_the_recipe": "2018-02-20 12:35:31 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2018-03-03 21:48:16 -0500"
     },
     "done": true
   },
@@ -3380,6 +3466,12 @@
     },
     "done": true
   },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2018-02-21 22:42:22 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/slime_ball": {
     "criteria": {
       "has_the_recipe": "2018-02-20 12:35:31 -0500"
@@ -3395,6 +3487,12 @@
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_the_recipe": "2018-02-20 12:35:31 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2018-02-22 00:01:23 -0500"
     },
     "done": true
   },
@@ -3713,6 +3811,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_the_recipe": "2018-02-20 12:35:31 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred_chicken": "2018-02-22 00:28:04 -0500"
     },
     "done": true
   },

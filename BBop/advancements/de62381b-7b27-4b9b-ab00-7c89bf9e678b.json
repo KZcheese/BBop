@@ -685,17 +685,27 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "shrubland": "2018-03-04 13:05:29 -0500",
+      "xeric_shrubland": "2018-03-04 12:56:51 -0500",
       "bayou": "2018-02-20 19:18:05 -0500",
       "marsh": "2018-02-20 19:47:03 -0500",
+      "chaparral": "2018-02-25 00:17:33 -0500",
       "maple_woods": "2018-02-20 19:41:06 -0500",
       "coral_reef": "2018-02-20 19:36:47 -0500",
       "coniferous_forest": "2018-02-20 19:41:21 -0500",
+      "shield": "2018-03-03 22:46:13 -0500",
       "mangrove": "2018-02-20 19:50:10 -0500",
+      "lush_desert": "2018-03-04 12:56:18 -0500",
       "cherry_blossom_grove": "2018-02-20 19:40:43 -0500",
+      "corrupted_sands": "2018-03-03 23:18:15 -0500",
       "kelp_forest": "2018-02-20 19:49:35 -0500",
       "lush_swamp": "2018-02-20 19:16:06 -0500",
+      "fungi_forest": "2018-03-04 17:53:09 -0500",
       "prairie": "2018-02-20 19:50:43 -0500",
-      "gravel_beach": "2018-02-20 19:37:30 -0500"
+      "grassland": "2018-02-25 00:13:28 -0500",
+      "undergarden": "2018-03-03 23:15:39 -0500",
+      "gravel_beach": "2018-02-20 19:37:30 -0500",
+      "brushland": "2018-03-04 12:56:00 -0500"
     },
     "done": false
   },
@@ -768,6 +778,12 @@
   "biomesoplenty:recipes/decorations/mangrove_fence": {
     "criteria": {
       "has_the_recipe": "2018-02-20 19:16:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2018-03-03 23:19:38 -0500"
     },
     "done": true
   },
@@ -911,7 +927,14 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "zombie": "2018-02-20 20:42:30 -0500"
+      "zombie_pigman": "2018-03-04 17:56:42 -0500",
+      "zombie_villager": "2018-03-04 18:37:47 -0500",
+      "skeleton": "2018-02-25 00:39:59 -0500",
+      "blaze": "2018-03-04 18:09:45 -0500",
+      "zombie": "2018-02-20 20:42:30 -0500",
+      "spider": "2018-03-04 17:37:39 -0500",
+      "ghast": "2018-03-04 17:59:43 -0500",
+      "creeper": "2018-02-25 00:26:43 -0500"
     },
     "done": false
   },
@@ -1262,6 +1285,12 @@
       "has_the_recipe": "2018-02-20 19:16:06 -0500"
     },
     "done": true
+  },
+  "biomesoplenty:biomesoplenty/terrestrial_artifact": {
+    "criteria": {
+      "emerald": "2018-03-04 17:36:08 -0500"
+    },
+    "done": false
   },
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
@@ -1617,14 +1646,19 @@
       "birch_forest": "2018-02-20 19:51:05 -0500",
       "deep_ocean": "2018-02-20 19:35:26 -0500",
       "beaches": "2018-02-20 19:49:51 -0500",
+      "mesa": "2018-02-25 00:18:01 -0500",
       "forest_hills": "2018-02-20 19:37:33 -0500",
       "plains": "2018-02-20 19:49:52 -0500",
+      "savanna": "2018-02-25 00:17:49 -0500",
+      "mesa_clear_rock": "2018-02-25 00:19:26 -0500",
+      "savanna_rock": "2018-03-04 12:59:52 -0500",
       "taiga": "2018-02-20 19:40:46 -0500",
       "taiga_hills": "2018-02-20 19:40:49 -0500",
       "birch_forest_hills": "2018-02-20 19:51:16 -0500",
       "ocean": "2018-02-20 19:36:24 -0500",
       "extreme_hills": "2018-02-20 19:40:59 -0500",
-      "river": "2018-02-20 19:37:32 -0500"
+      "river": "2018-02-20 19:37:32 -0500",
+      "desert": "2018-02-25 00:17:59 -0500"
     },
     "done": false
   },
@@ -2120,6 +2154,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2018-03-03 23:15:39 -0500"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/sign_from_bop_wood": {
     "criteria": {
       "has_the_recipe": "2018-02-20 19:16:06 -0500"
@@ -2336,6 +2376,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "apple": "2018-03-03 23:13:22 -0500"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_the_recipe": "2018-02-20 19:16:06 -0500"
@@ -2534,6 +2580,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2018-02-25 00:25:45 -0500"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/lime_dye_from_glowshroom": {
     "criteria": {
       "has_the_recipe": "2018-02-20 19:16:06 -0500"
@@ -2612,12 +2664,6 @@
     },
     "done": true
   },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2018-02-20 20:22:55 -0500"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_the_recipe": "2018-02-20 19:16:06 -0500"
@@ -2627,6 +2673,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab": {
     "criteria": {
       "has_the_recipe": "2018-02-20 19:16:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2018-02-20 20:22:55 -0500"
     },
     "done": true
   },
@@ -2804,9 +2856,21 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2018-03-03 23:15:39 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_the_recipe": "2018-02-20 19:16:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2018-03-04 17:42:17 -0500"
     },
     "done": true
   },
@@ -3035,6 +3099,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_the_recipe": "2018-02-20 19:16:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2018-03-04 18:08:54 -0500"
     },
     "done": true
   },
@@ -3516,6 +3586,12 @@
   "biomesoplenty:recipes/misc/magenta_dye_from_wildflower": {
     "criteria": {
       "has_the_recipe": "2018-02-20 19:16:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2018-02-25 00:26:14 -0500"
     },
     "done": true
   },
