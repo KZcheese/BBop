@@ -233,6 +233,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/boat_ethereal": {
+    "criteria": {
+      "entered_water": "2018-03-08 19:16:18 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_red_bonemeal": {
     "criteria": {
       "has_bonemeal": "2018-02-22 22:18:39 -0500"
@@ -356,6 +362,12 @@
   "minecraft:recipes/redstone/fence_gate": {
     "criteria": {
       "has_planks": "2018-02-20 20:25:19 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_mangrove": {
+    "criteria": {
+      "entered_water": "2018-03-08 19:16:18 -0500"
     },
     "done": true
   },
@@ -609,6 +621,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/boat_redwood": {
+    "criteria": {
+      "entered_water": "2018-03-08 19:16:18 -0500"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/eucalyptus_planks": {
     "criteria": {
       "has_log": "2018-02-20 21:51:11 -0500"
@@ -858,6 +876,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/boat_fir": {
+    "criteria": {
+      "entered_water": "2018-03-08 19:16:18 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-02-23 15:00:05 -0500"
@@ -879,6 +903,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_at_least_9_iron_ingot": "2018-02-23 14:36:12 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_sacred_oak": {
+    "criteria": {
+      "entered_water": "2018-03-08 19:16:18 -0500"
     },
     "done": true
   },
@@ -979,6 +1009,12 @@
   "minecraft:recipes/decorations/light_blue_carpet": {
     "criteria": {
       "has_light_blue_wool": "2018-02-22 22:18:47 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_cherry": {
+    "criteria": {
+      "entered_water": "2018-03-08 19:16:18 -0500"
     },
     "done": true
   },
@@ -1087,6 +1123,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2018-02-28 14:55:10 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_hellbark": {
+    "criteria": {
+      "entered_water": "2018-03-08 19:16:18 -0500"
     },
     "done": true
   },
@@ -1715,6 +1757,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/boat_eucalyptus": {
+    "criteria": {
+      "entered_water": "2018-03-08 19:16:18 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_at_least_9_wheat": "2018-02-23 15:46:39 -0500"
@@ -1970,6 +2018,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/boat_umbran": {
+    "criteria": {
+      "entered_water": "2018-03-08 19:16:18 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-02-23 15:00:05 -0500"
@@ -2042,6 +2096,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/boat_magic": {
+    "criteria": {
+      "entered_water": "2018-03-08 19:16:18 -0500"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_lapis_block": "2018-02-28 00:48:17 -0500"
@@ -2069,6 +2129,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2018-02-24 20:50:51 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_palm": {
+    "criteria": {
+      "entered_water": "2018-03-08 19:16:18 -0500"
     },
     "done": true
   },
@@ -2177,6 +2243,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2018-02-23 15:00:05 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_pine": {
+    "criteria": {
+      "entered_water": "2018-03-08 19:16:18 -0500"
     },
     "done": true
   },
@@ -2294,6 +2366,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/boat_ebony": {
+    "criteria": {
+      "entered_water": "2018-03-08 19:16:18 -0500"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/ebony_stairs": {
     "criteria": {
       "has_planks": "2018-02-24 22:38:31 -0500"
@@ -2345,6 +2423,12 @@
   "minecraft:recipes/building_blocks/string_to_wool": {
     "criteria": {
       "has_string": "2018-02-20 21:27:01 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_mahogany": {
+    "criteria": {
+      "entered_water": "2018-03-08 19:16:18 -0500"
     },
     "done": true
   },
@@ -2420,6 +2504,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/boat_willow": {
+    "criteria": {
+      "entered_water": "2018-03-08 19:16:18 -0500"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/orange_dye_from_burning_blossom": {
     "criteria": {
       "has_flower": "2018-03-03 12:01:58 -0500"
@@ -2483,6 +2573,12 @@
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2018-02-20 21:27:16 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_jacaranda": {
+    "criteria": {
+      "entered_water": "2018-03-08 19:16:18 -0500"
     },
     "done": true
   },
