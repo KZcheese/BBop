@@ -347,6 +347,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/boat_ethereal": {
+    "criteria": {
+      "entered_water": "2018-03-12 13:40:25 -0400"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/palm_planks": {
     "criteria": {
       "has_the_recipe": "2018-02-20 12:35:31 -0500"
@@ -524,6 +530,12 @@
   "minecraft:recipes/redstone/fence_gate": {
     "criteria": {
       "has_the_recipe": "2018-02-20 12:35:31 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_mangrove": {
+    "criteria": {
+      "entered_water": "2018-03-12 13:40:25 -0400"
     },
     "done": true
   },
@@ -876,6 +888,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/boat_redwood": {
+    "criteria": {
+      "entered_water": "2018-03-12 13:40:25 -0400"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/ender_terrarium": {
     "criteria": {
       "has_the_recipe": "2018-02-20 12:35:31 -0500"
@@ -964,6 +982,7 @@
     "criteria": {
       "zombie_pigman": "2018-03-06 18:47:59 -0500",
       "zombie_villager": "2018-02-21 01:28:10 -0500",
+      "slime": "2018-03-13 12:09:32 -0400",
       "vindicator": "2018-02-20 19:19:46 -0500",
       "skeleton": "2018-02-21 01:25:05 -0500",
       "husk": "2018-02-21 00:48:21 -0500",
@@ -995,6 +1014,12 @@
   "minecraft:recipes/decorations/orange_bed": {
     "criteria": {
       "has_the_recipe": "2018-02-20 12:35:31 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2018-03-13 14:27:55 -0400"
     },
     "done": true
   },
@@ -1250,6 +1275,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/boat_fir": {
+    "criteria": {
+      "entered_water": "2018-03-12 13:40:25 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/light_blue_stained_glass_pane": {
     "criteria": {
       "has_the_recipe": "2018-02-20 12:35:31 -0500"
@@ -1301,6 +1332,12 @@
   "minecraft:recipes/building_blocks/quartz_slab": {
     "criteria": {
       "has_the_recipe": "2018-02-20 12:35:31 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_sacred_oak": {
+    "criteria": {
+      "entered_water": "2018-03-12 13:40:25 -0400"
     },
     "done": true
   },
@@ -1417,6 +1454,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2018-02-20 12:35:31 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_cherry": {
+    "criteria": {
+      "entered_water": "2018-03-12 13:40:25 -0400"
     },
     "done": true
   },
@@ -1573,6 +1616,12 @@
   "minecraft:recipes/decorations/orange_banner": {
     "criteria": {
       "has_the_recipe": "2018-02-20 12:35:31 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_hellbark": {
+    "criteria": {
+      "entered_water": "2018-03-12 13:40:25 -0400"
     },
     "done": true
   },
@@ -2536,6 +2585,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/boat_eucalyptus": {
+    "criteria": {
+      "entered_water": "2018-03-12 13:40:25 -0400"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/pink_dye_from_pink_daffodil": {
     "criteria": {
       "has_the_recipe": "2018-02-20 12:35:31 -0500"
@@ -2902,6 +2957,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/boat_umbran": {
+    "criteria": {
+      "entered_water": "2018-03-12 13:40:25 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_the_recipe": "2018-02-20 12:35:31 -0500"
@@ -3028,6 +3089,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/boat_magic": {
+    "criteria": {
+      "entered_water": "2018-03-12 13:40:25 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_the_recipe": "2018-02-20 12:35:31 -0500"
@@ -3061,6 +3128,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_the_recipe": "2018-02-20 12:35:31 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_palm": {
+    "criteria": {
+      "entered_water": "2018-03-12 13:40:25 -0400"
     },
     "done": true
   },
@@ -3247,6 +3320,12 @@
   "biomesoplenty:recipes/decorations/sapling_terrarium": {
     "criteria": {
       "has_the_recipe": "2018-02-20 12:35:31 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_pine": {
+    "criteria": {
+      "entered_water": "2018-03-12 13:40:25 -0400"
     },
     "done": true
   },
@@ -3460,6 +3539,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/transportation/boat_ebony": {
+    "criteria": {
+      "entered_water": "2018-03-12 13:40:25 -0400"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/ebony_stairs": {
     "criteria": {
       "has_the_recipe": "2018-02-20 12:35:31 -0500"
@@ -3511,6 +3596,12 @@
   "minecraft:recipes/building_blocks/string_to_wool": {
     "criteria": {
       "has_the_recipe": "2018-02-20 12:35:31 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_mahogany": {
+    "criteria": {
+      "entered_water": "2018-03-12 13:40:25 -0400"
     },
     "done": true
   },
@@ -3631,6 +3722,12 @@
   "biomesoplenty:recipes/buildingblocks/cherry_wooden_slab": {
     "criteria": {
       "has_the_recipe": "2018-02-20 12:35:31 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_willow": {
+    "criteria": {
+      "entered_water": "2018-03-12 13:40:25 -0400"
     },
     "done": true
   },
@@ -3757,6 +3854,12 @@
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_the_recipe": "2018-02-20 12:35:31 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_jacaranda": {
+    "criteria": {
+      "entered_water": "2018-03-12 13:40:25 -0400"
     },
     "done": true
   },
