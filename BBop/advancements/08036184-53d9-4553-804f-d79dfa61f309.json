@@ -981,7 +981,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_pigman": "2018-03-06 18:47:59 -0500",
+      "wither_skeleton": "2018-04-06 21:42:00 -0400",
       "zombie_villager": "2018-02-21 01:28:10 -0500",
+      "magma_cube": "2018-04-06 21:44:02 -0400",
       "slime": "2018-03-13 12:09:32 -0400",
       "vindicator": "2018-02-20 19:19:46 -0500",
       "skeleton": "2018-02-21 01:25:05 -0500",
@@ -1152,6 +1154,12 @@
   "biomesoplenty:recipes/redstone/willow_door": {
     "criteria": {
       "has_the_recipe": "2018-02-20 12:35:31 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2018-03-30 21:38:34 -0400"
     },
     "done": true
   },
@@ -3056,6 +3064,12 @@
   "minecraft:recipes/building_blocks/red_sandstone_slab": {
     "criteria": {
       "has_the_recipe": "2018-02-20 12:35:31 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/uneasy_alliance": {
+    "criteria": {
+      "killed_ghast": "2018-03-31 00:26:04 -0400"
     },
     "done": true
   },

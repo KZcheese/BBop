@@ -101,6 +101,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/buildingblocks/pine_planks": {
+    "criteria": {
+      "has_log": "2018-04-07 10:47:52 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2018-02-23 15:12:44 -0500"
@@ -134,6 +140,12 @@
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2018-02-20 21:27:16 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stonebrick": {
+    "criteria": {
+      "has_mossy_cobblestone": "2018-04-07 10:37:04 -0400"
     },
     "done": true
   },
@@ -519,6 +531,7 @@
       "mountain_foothills": "2018-02-22 21:35:47 -0500",
       "coral_reef": "2018-02-20 20:57:29 -0500",
       "eucalyptus_forest": "2018-02-20 21:50:57 -0500",
+      "shield": "2018-04-07 10:34:38 -0400",
       "wasteland": "2018-02-22 21:51:03 -0500",
       "lush_desert": "2018-02-24 21:10:25 -0500",
       "mangrove": "2018-02-24 23:15:16 -0500",
@@ -603,6 +616,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_log": "2018-04-07 10:48:08 -0400"
+    },
+    "done": true
+  },
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2018-02-23 15:41:44 -0500"
@@ -618,6 +637,12 @@
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2018-02-20 20:25:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2018-03-30 19:50:10 -0400"
     },
     "done": true
   },
@@ -660,6 +685,12 @@
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2018-02-22 21:43:20 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/food/shroom_salad": {
+    "criteria": {
+      "has_bowl": "2018-03-29 17:26:20 -0400"
     },
     "done": true
   },
@@ -718,6 +749,12 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2018-02-24 16:28:37 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_bed": {
+    "criteria": {
+      "has_orange_wool": "2018-04-01 17:13:38 -0400"
     },
     "done": true
   },
@@ -853,6 +890,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/buildingblocks/pine_wooden_slab": {
+    "criteria": {
+      "has_planks": "2018-04-07 10:56:18 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/cyan_dye": {
     "criteria": {
       "has_lapis": "2018-02-20 20:54:37 -0500"
@@ -925,6 +968,18 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/food/fruit_salad": {
+    "criteria": {
+      "has_bowl": "2018-03-29 17:26:20 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2018-03-30 19:50:10 -0400"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/boat_sacred_oak": {
     "criteria": {
       "entered_water": "2018-03-08 19:16:18 -0500"
@@ -951,6 +1006,7 @@
   },
   "biomesoplenty:biomesoplenty/terrestrial_artifact": {
     "criteria": {
+      "topaz": "2018-04-07 10:36:26 -0400",
       "amber": "2018-03-04 10:38:24 -0500",
       "malachite": "2018-02-23 22:44:30 -0500",
       "emerald": "2018-02-20 20:25:19 -0500",
@@ -1139,6 +1195,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2018-03-30 19:50:10 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_log": "2018-02-21 11:31:07 -0500"
@@ -1160,6 +1222,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2018-02-28 14:55:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_banner": {
+    "criteria": {
+      "has_orange_wool": "2018-04-01 17:13:38 -0400"
     },
     "done": true
   },
@@ -1256,6 +1324,12 @@
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2018-02-28 14:54:27 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_carpet": {
+    "criteria": {
+      "has_green_wool": "2018-04-01 17:11:53 -0400"
     },
     "done": true
   },
@@ -1444,6 +1518,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/cherry_fence_gate": {
+    "criteria": {
+      "has_planks": "2018-03-30 00:19:25 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_at_least_9_lapis": "2018-02-20 20:54:37 -0500"
@@ -1492,6 +1572,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/buildingblocks/pine_stairs": {
+    "criteria": {
+      "has_planks": "2018-04-07 10:56:18 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_wool": {
     "criteria": {
       "has_white_wool": "2018-02-20 21:27:16 -0500"
@@ -1519,6 +1605,12 @@
   "biomesoplenty:recipes/buildingblocks/willow_stairs": {
     "criteria": {
       "has_planks": "2018-02-23 15:21:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2018-03-31 23:41:20 -0400"
     },
     "done": true
   },
@@ -1558,6 +1650,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/cherry_fence": {
+    "criteria": {
+      "has_planks": "2018-03-30 00:19:25 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_gravel": "2018-02-20 20:25:19 -0500"
@@ -1567,6 +1665,18 @@
   "biomesoplenty:recipes/buildingblocks/coarse_silty_dirt": {
     "criteria": {
       "has_gravel": "2018-02-20 20:25:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pillar_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2018-03-30 19:50:10 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed": {
+    "criteria": {
+      "has_green_wool": "2018-04-01 17:11:53 -0400"
     },
     "done": true
   },
@@ -1666,6 +1776,18 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/buildingblocks/amber_block": {
+    "criteria": {
+      "has_at_least_9_gems": "2018-03-30 14:46:07 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet": {
+    "criteria": {
+      "has_pink_wool": "2018-03-30 23:49:19 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-02-23 15:00:05 -0500"
@@ -1749,12 +1871,16 @@
       "cooked_porkchop": "2018-03-01 18:11:58 -0500",
       "cooked_mutton": "2018-02-24 21:14:19 -0500",
       "apple": "2018-02-20 22:00:01 -0500",
+      "spider_eye": "2018-03-30 14:43:53 -0400",
       "potato": "2018-03-04 18:33:23 -0500",
+      "cooked_cod": "2018-03-29 17:29:51 -0400",
       "melon": "2018-03-07 23:10:31 -0500",
       "pumpkin_pie": "2018-03-04 22:10:48 -0500",
       "bread": "2018-02-24 16:24:15 -0500",
+      "golden_apple": "2018-04-06 10:57:18 -0400",
       "rotten_flesh": "2018-03-07 11:33:21 -0500",
       "beetroot": "2018-03-14 19:12:33 -0400",
+      "mushroom_stew": "2018-04-01 00:34:52 -0400",
       "carrot": "2018-02-23 14:27:37 -0500"
     },
     "done": false
@@ -1783,6 +1909,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/pine_door": {
+    "criteria": {
+      "has_planks": "2018-04-07 10:56:18 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2018-02-20 21:27:16 -0500"
@@ -1795,6 +1927,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_banner": {
+    "criteria": {
+      "has_pink_wool": "2018-03-30 23:49:19 -0400"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/hellbark_fence_gate": {
     "criteria": {
       "has_planks": "2018-02-28 15:47:54 -0500"
@@ -1804,6 +1942,12 @@
   "biomesoplenty:recipes/transportation/boat_eucalyptus": {
     "criteria": {
       "entered_water": "2018-03-08 19:16:18 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2018-04-07 10:37:04 -0400"
     },
     "done": true
   },
@@ -1866,6 +2010,7 @@
       "bred_chicken": "2018-03-07 20:05:58 -0500",
       "bred_sheep": "2018-03-07 13:11:08 -0500",
       "bred_horse": "2018-02-23 13:46:17 -0500",
+      "bred_cow": "2018-03-30 11:40:49 -0400",
       "bred_pig": "2018-03-06 21:19:46 -0500"
     },
     "done": false
@@ -1888,6 +2033,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_carpet": {
+    "criteria": {
+      "has_orange_wool": "2018-04-01 17:13:38 -0400"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2018-02-20 20:35:20 -0500"
@@ -1897,6 +2048,12 @@
   "biomesoplenty:recipes/misc/lime_dye_from_glowshroom": {
     "criteria": {
       "has_flower": "2018-02-24 20:47:50 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/cherry_door": {
+    "criteria": {
+      "has_planks": "2018-03-30 00:19:25 -0400"
     },
     "done": true
   },
@@ -2110,6 +2267,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/buildingblocks/cherry_stairs": {
+    "criteria": {
+      "has_planks": "2018-03-30 00:19:25 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2018-02-20 21:27:16 -0500"
@@ -2134,9 +2297,21 @@
     },
     "done": true
   },
+  "minecraft:nether/uneasy_alliance": {
+    "criteria": {
+      "killed_ghast": "2018-03-31 00:24:54 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2018-02-21 11:31:09 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_banner": {
+    "criteria": {
+      "has_green_wool": "2018-04-01 17:11:53 -0400"
     },
     "done": true
   },
@@ -2296,6 +2471,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_bed": {
+    "criteria": {
+      "has_pink_wool": "2018-03-30 23:49:19 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2018-02-23 15:00:05 -0500"
@@ -2362,6 +2543,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/food/veggie_salad": {
+    "criteria": {
+      "has_bowl": "2018-03-29 17:26:20 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/yellow_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-02-23 15:00:05 -0500"
@@ -2392,6 +2579,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/light_blue_dye_from_flax": {
+    "criteria": {
+      "has_flower": "2018-03-30 23:17:32 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2018-02-25 23:13:48 -0500"
@@ -2413,6 +2606,12 @@
   "minecraft:recipes/tools/lead": {
     "criteria": {
       "has_slime_ball": "2018-02-26 10:59:03 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/pine_fence_gate": {
+    "criteria": {
+      "has_planks": "2018-04-07 10:56:18 -0400"
     },
     "done": true
   },
@@ -2530,6 +2729,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_stone": "2018-03-30 11:25:01 -0400"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/hellbark_wooden_slab": {
     "criteria": {
       "has_planks": "2018-02-28 15:47:54 -0500"
@@ -2569,6 +2774,12 @@
   "biomesoplenty:recipes/transportation/boat_willow": {
     "criteria": {
       "entered_water": "2018-03-08 19:16:18 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/buildingblocks/cherry_wooden_slab": {
+    "criteria": {
+      "has_planks": "2018-03-30 00:19:25 -0400"
     },
     "done": true
   },
@@ -2698,6 +2909,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/food/bowl_of_rice": {
+    "criteria": {
+      "has_bowl": "2018-03-29 17:26:20 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2018-02-20 20:35:20 -0500"
@@ -2773,6 +2990,12 @@
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2018-02-23 15:00:05 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/pine_fence": {
+    "criteria": {
+      "has_planks": "2018-04-07 10:56:18 -0400"
     },
     "done": true
   },
