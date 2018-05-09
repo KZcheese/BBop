@@ -299,6 +299,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/make_steel": {
+    "criteria": {
+      "craft_hammer": "2018-04-17 20:23:17 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2018-02-20 21:04:28 -0500"
@@ -522,30 +528,48 @@
       "oasis": "2018-02-22 21:35:42 -0500",
       "woodland": "2018-03-06 20:39:58 -0500",
       "shrubland": "2018-02-23 15:06:25 -0500",
+      "white_beach": "2018-04-16 16:36:35 -0400",
       "xeric_shrubland": "2018-02-22 22:03:50 -0500",
       "tropical_rainforest": "2018-02-20 21:39:45 -0500",
+      "steppe": "2018-04-16 16:36:13 -0400",
       "bayou": "2018-02-20 20:24:25 -0500",
       "phantasmagoric_inferno": "2018-02-28 15:03:25 -0500",
+      "mountain": "2018-04-16 16:33:05 -0400",
+      "highland": "2018-04-15 01:57:50 -0400",
       "marsh": "2018-02-20 20:44:09 -0500",
       "chaparral": "2018-02-22 21:45:40 -0500",
+      "wetland": "2018-04-15 01:56:09 -0400",
       "mountain_foothills": "2018-02-22 21:35:47 -0500",
+      "cold_desert": "2018-04-21 01:11:41 -0400",
+      "maple_woods": "2018-04-16 17:45:21 -0400",
       "coral_reef": "2018-02-20 20:57:29 -0500",
+      "orchard": "2018-04-15 01:57:23 -0400",
+      "land_of_lakes": "2018-04-15 02:05:51 -0400",
       "eucalyptus_forest": "2018-02-20 21:50:57 -0500",
+      "coniferous_forest": "2018-04-21 13:36:38 -0400",
       "shield": "2018-04-07 10:34:38 -0400",
       "wasteland": "2018-02-22 21:51:03 -0500",
       "lush_desert": "2018-02-24 21:10:25 -0500",
       "mangrove": "2018-02-24 23:15:16 -0500",
+      "redwood_forest": "2018-04-15 02:23:46 -0400",
+      "boreal_forest": "2018-04-16 10:17:00 -0400",
       "cherry_blossom_grove": "2018-02-20 20:58:37 -0500",
       "visceral_heap": "2018-03-01 18:20:32 -0500",
+      "snowy_forest": "2018-04-16 17:45:09 -0400",
       "seasonal_forest": "2018-02-22 21:32:42 -0500",
+      "temperate_rainforest": "2018-04-15 02:20:18 -0400",
       "corrupted_sands": "2018-02-20 20:45:25 -0500",
       "kelp_forest": "2018-02-20 21:31:07 -0500",
       "meadow": "2018-02-23 15:07:50 -0500",
       "lush_swamp": "2018-02-20 20:24:28 -0500",
       "fungi_forest": "2018-02-20 20:46:04 -0500",
+      "tropical_island": "2018-04-16 16:36:36 -0400",
       "prairie": "2018-03-04 18:35:24 -0500",
+      "grassland": "2018-04-15 01:55:52 -0400",
+      "tundra": "2018-04-16 16:47:10 -0400",
       "undergarden": "2018-02-20 20:45:43 -0500",
       "gravel_beach": "2018-02-20 20:47:28 -0500",
+      "grove": "2018-04-16 17:47:05 -0400",
       "brushland": "2018-02-22 21:23:17 -0500"
     },
     "done": false
@@ -646,6 +670,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2018-04-29 16:13:46 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "entered_water": "2018-02-20 20:25:11 -0500"
@@ -700,9 +730,21 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/buildingblocks/tanzanite_block": {
+    "criteria": {
+      "has_at_least_9_gems": "2018-04-21 01:00:22 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2018-02-20 20:25:19 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2018-04-21 12:36:07 -0400"
     },
     "done": true
   },
@@ -721,6 +763,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_pigman": "2018-02-26 20:50:06 -0500",
+      "stray": "2018-05-05 02:38:17 -0400",
       "wither_skeleton": "2018-02-28 15:01:54 -0500",
       "zombie_villager": "2018-02-23 16:00:48 -0500",
       "magma_cube": "2018-02-28 01:00:21 -0500",
@@ -890,6 +933,18 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/tanzanite": {
+    "criteria": {
+      "has_gem_block": "2018-04-22 02:03:10 -0400"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/multiblock_blastfurnace": {
+    "criteria": {
+      "form_blastfurnace": "2018-04-17 17:45:22 -0400"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/pine_wooden_slab": {
     "criteria": {
       "has_planks": "2018-04-07 10:56:18 -0400"
@@ -917,6 +972,12 @@
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2018-02-23 13:45:31 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_violet": {
+    "criteria": {
+      "has_flower": "2018-04-21 13:04:38 -0400"
     },
     "done": true
   },
@@ -1011,7 +1072,8 @@
       "malachite": "2018-02-23 22:44:30 -0500",
       "emerald": "2018-02-20 20:25:19 -0500",
       "sapphire": "2018-02-23 15:40:01 -0500",
-      "ruby": "2018-02-24 22:20:38 -0500"
+      "ruby": "2018-02-24 22:20:38 -0500",
+      "tanzanite": "2018-04-21 00:54:02 -0400"
     },
     "done": false
   },
@@ -1171,6 +1233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_banner": {
+    "criteria": {
+      "has_red_wool": "2018-04-29 16:13:46 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2018-02-20 21:27:01 -0500"
@@ -1222,6 +1290,12 @@
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2018-02-28 14:55:10 -0500"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/place_windmill": {
+    "criteria": {
+      "place_windmill": "2018-04-17 18:11:12 -0400"
     },
     "done": true
   },
@@ -1341,7 +1415,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "frozen_river": "2018-04-16 17:45:20 -0400",
+      "ice_flats": "2018-04-21 01:10:41 -0400",
+      "taiga_cold_hills": "2018-05-05 02:49:44 -0400",
       "forest": "2018-02-20 20:47:30 -0500",
+      "mushroom_island_shore": "2018-05-01 16:46:26 -0400",
       "birch_forest": "2018-02-22 21:30:09 -0500",
       "swampland": "2018-03-06 20:58:00 -0500",
       "deep_ocean": "2018-02-20 20:28:47 -0500",
@@ -1353,12 +1431,17 @@
       "plains": "2018-02-22 21:29:50 -0500",
       "mesa_clear_rock": "2018-02-22 22:01:27 -0500",
       "savanna_rock": "2018-02-22 21:14:50 -0500",
+      "taiga": "2018-04-21 12:51:11 -0400",
       "birch_forest_hills": "2018-03-04 18:40:37 -0500",
+      "mushroom_island": "2018-05-01 16:46:45 -0400",
       "taiga_cold": "2018-02-23 15:09:18 -0500",
       "ocean": "2018-02-20 20:25:05 -0500",
+      "extreme_hills": "2018-04-16 16:44:51 -0400",
       "roofed_forest": "2018-02-20 21:43:12 -0500",
+      "cold_beach": "2018-04-16 17:47:27 -0400",
       "river": "2018-02-20 20:47:28 -0500",
-      "desert": "2018-02-22 21:25:05 -0500"
+      "desert": "2018-02-22 21:25:05 -0500",
+      "stone_beach": "2018-04-16 16:44:40 -0400"
     },
     "done": false
   },
@@ -1500,6 +1583,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/place_conveyor": {
+    "criteria": {
+      "place_conveyor": "2018-04-21 01:16:56 -0400"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/ebony_fence": {
     "criteria": {
       "has_planks": "2018-02-24 22:38:31 -0500"
@@ -1572,6 +1661,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/connect_wire": {
+    "criteria": {
+      "code_trigger": "2018-04-17 20:29:38 -0400"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/pine_stairs": {
     "criteria": {
       "has_planks": "2018-04-07 10:56:18 -0400"
@@ -1635,6 +1730,12 @@
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2018-02-28 14:54:27 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/buildingblocks/white_sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2018-04-16 16:42:08 -0400"
     },
     "done": true
   },
@@ -1860,6 +1961,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/pink_dye_from_pink_hibiscus": {
+    "criteria": {
+      "has_flower": "2018-04-16 16:37:45 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2018-02-23 13:45:31 -0500"
@@ -1879,7 +1986,9 @@
       "bread": "2018-02-24 16:24:15 -0500",
       "golden_apple": "2018-04-06 10:57:18 -0400",
       "rotten_flesh": "2018-03-07 11:33:21 -0500",
+      "raw_cod": "2018-04-18 16:41:15 -0400",
       "beetroot": "2018-03-14 19:12:33 -0400",
+      "cooked_chicken": "2018-04-21 13:34:42 -0400",
       "mushroom_stew": "2018-04-01 00:34:52 -0400",
       "carrot": "2018-02-23 14:27:37 -0500"
     },
@@ -1888,6 +1997,12 @@
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2018-02-20 21:34:52 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/buildingblocks/smooth_white_sandstone": {
+    "criteria": {
+      "has_sandstone": "2018-04-16 16:42:08 -0400"
     },
     "done": true
   },
@@ -2009,6 +2124,7 @@
     "criteria": {
       "bred_chicken": "2018-03-07 20:05:58 -0500",
       "bred_sheep": "2018-03-07 13:11:08 -0500",
+      "bred_wolf": "2018-04-25 20:23:18 -0400",
       "bred_horse": "2018-02-23 13:46:17 -0500",
       "bred_cow": "2018-03-30 11:40:49 -0400",
       "bred_pig": "2018-03-06 21:19:46 -0500"
@@ -2093,6 +2209,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/multiblock_silo": {
+    "criteria": {
+      "form_blastfurnace": "2018-04-16 15:27:35 -0400"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2018-02-20 20:25:25 -0500"
@@ -2150,6 +2272,12 @@
   "biomesoplenty:recipes/redstone/hellbark_door": {
     "criteria": {
       "has_planks": "2018-02-28 15:47:54 -0500"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/multiblock_crusher": {
+    "criteria": {
+      "form_blastfurnace": "2018-04-21 00:05:29 -0400"
     },
     "done": true
   },
@@ -2243,6 +2371,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/craft_workbench": {
+    "criteria": {
+      "craft_hammer": "2018-04-17 20:35:31 -0400"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2018-02-20 20:45:24 -0500"
@@ -2252,6 +2386,12 @@
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_ender_eye": "2018-03-25 13:28:55 -0400"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_pump": {
+    "criteria": {
+      "craft_hammer": "2018-04-25 15:28:44 -0400"
     },
     "done": true
   },
@@ -2393,6 +2533,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/place_floodlight": {
+    "criteria": {
+      "place_floodlight": "2018-04-18 00:33:20 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stonebrick": "2018-02-26 11:02:24 -0500"
@@ -2426,6 +2572,18 @@
   "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
     "criteria": {
       "has_black_dye": "2018-02-20 20:25:29 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/buildingblocks/white_sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2018-04-16 16:42:08 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_double_plant": "2018-05-01 11:50:57 -0400"
     },
     "done": true
   },
@@ -2615,6 +2773,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wooden_slab": {
+    "criteria": {
+      "has_planks": "2018-04-21 12:36:07 -0400"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "bop_flower_0": "2018-02-25 01:38:36 -0500"
@@ -2624,6 +2788,12 @@
   "biomesoplenty:recipes/transportation/boat_ebony": {
     "criteria": {
       "entered_water": "2018-03-08 19:16:18 -0500"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_revolver": {
+    "criteria": {
+      "craft_hammer": "2018-05-02 20:27:18 -0400"
     },
     "done": true
   },
@@ -2735,6 +2905,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/root": {
+    "criteria": {
+      "hold_manual": "2018-04-15 02:29:40 -0400"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/hellbark_wooden_slab": {
     "criteria": {
       "has_planks": "2018-02-28 15:47:54 -0500"
@@ -2759,6 +2935,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/craft_hammer": {
+    "criteria": {
+      "craft_hammer": "2018-04-16 10:51:52 -0400"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/cyan_dye_from_swampflower": {
     "criteria": {
       "has_flower": "2018-02-25 01:38:36 -0500"
@@ -2780,6 +2962,12 @@
   "biomesoplenty:recipes/buildingblocks/cherry_wooden_slab": {
     "criteria": {
       "has_planks": "2018-03-30 00:19:25 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2018-04-29 16:13:46 -0400"
     },
     "done": true
   },
@@ -2819,6 +3007,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2018-04-21 12:36:07 -0400"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_heater": {
+    "criteria": {
+      "craft_hammer": "2018-04-22 01:50:20 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2018-02-22 22:14:39 -0500"
@@ -2855,6 +3055,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2018-04-21 12:36:07 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_brick": "2018-02-28 15:03:33 -0500"
@@ -2873,15 +3079,39 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/buildingblocks/white_sandstone": {
+    "criteria": {
+      "has_sand": "2018-04-16 16:37:54 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lit_pumpkin": {
     "criteria": {
       "has_pumpkin": "2018-02-23 15:18:46 -0500"
     },
     "done": true
   },
+  "biomesoplenty:recipes/misc/light_gray_dye_from_clover": {
+    "criteria": {
+      "has_flower": "2018-04-29 10:04:43 -0400"
+    },
+    "done": true
+  },
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred_horse": "2018-02-23 13:46:17 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_stone": "2018-04-16 10:42:33 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2018-04-21 12:36:07 -0400"
     },
     "done": true
   },
@@ -2894,6 +3124,12 @@
   "biomesoplenty:recipes/tools/empty_jar": {
     "criteria": {
       "has_glass": "2018-02-23 15:00:05 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/buildingblocks/bamboo_thatching": {
+    "criteria": {
+      "has_item": "2018-04-16 16:38:40 -0400"
     },
     "done": true
   },
@@ -3008,6 +3244,12 @@
   "minecraft:recipes/decorations/light_gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2018-02-23 15:00:05 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/light_blue_dye_from_icy_iris": {
+    "criteria": {
+      "has_flower": "2018-05-05 02:36:42 -0400"
     },
     "done": true
   },
