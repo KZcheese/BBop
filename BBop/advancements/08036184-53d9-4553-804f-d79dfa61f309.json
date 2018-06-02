@@ -1223,6 +1223,12 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2018-05-24 23:17:30 -0400"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/fern_terrarium": {
     "criteria": {
       "has_the_recipe": "2018-02-20 12:35:31 -0500"
@@ -3721,6 +3727,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/craft_hammer": {
+    "criteria": {
+      "craft_hammer": "2018-05-27 21:23:07 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_the_recipe": "2018-02-20 12:35:31 -0500"
@@ -3901,6 +3913,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2018-05-24 23:17:30 -0400"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/white_sandstone": {
     "criteria": {
       "has_the_recipe": "2018-02-20 12:35:31 -0500"
@@ -4018,6 +4036,12 @@
   "biomesoplenty:recipes/buildingblocks/fir_stairs": {
     "criteria": {
       "has_the_recipe": "2018-02-20 12:35:31 -0500"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_drill": {
+    "criteria": {
+      "craft_hammer": "2018-05-24 22:38:08 -0400"
     },
     "done": true
   },

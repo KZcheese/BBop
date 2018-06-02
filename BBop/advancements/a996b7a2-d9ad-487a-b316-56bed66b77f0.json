@@ -179,6 +179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2018-05-25 11:37:56 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2018-02-20 20:25:19 -0500"
@@ -212,6 +218,18 @@
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2018-02-20 21:34:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2018-05-30 00:13:00 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purpur_stairs": {
+    "criteria": {
+      "has_purpur_block": "2018-05-30 09:27:11 -0400"
     },
     "done": true
   },
@@ -536,15 +554,19 @@
       "phantasmagoric_inferno": "2018-02-28 15:03:25 -0500",
       "mountain": "2018-04-16 16:33:05 -0400",
       "highland": "2018-04-15 01:57:50 -0400",
+      "quagmire": "2018-05-24 23:36:10 -0400",
       "marsh": "2018-02-20 20:44:09 -0500",
       "chaparral": "2018-02-22 21:45:40 -0500",
       "wetland": "2018-04-15 01:56:09 -0400",
+      "flower_field": "2018-05-26 10:23:14 -0400",
       "mountain_foothills": "2018-02-22 21:35:47 -0500",
       "cold_desert": "2018-04-21 01:11:41 -0400",
       "maple_woods": "2018-04-16 17:45:21 -0400",
       "coral_reef": "2018-02-20 20:57:29 -0500",
       "orchard": "2018-04-15 01:57:23 -0400",
+      "moor": "2018-05-26 09:26:27 -0400",
       "land_of_lakes": "2018-04-15 02:05:51 -0400",
+      "bog": "2018-05-26 09:33:58 -0400",
       "eucalyptus_forest": "2018-02-20 21:50:57 -0500",
       "coniferous_forest": "2018-04-21 13:36:38 -0400",
       "shield": "2018-04-07 10:34:38 -0400",
@@ -570,7 +592,9 @@
       "undergarden": "2018-02-20 20:45:43 -0500",
       "gravel_beach": "2018-02-20 20:47:28 -0500",
       "grove": "2018-04-16 17:47:05 -0400",
-      "brushland": "2018-02-22 21:23:17 -0500"
+      "crag": "2018-05-26 10:41:08 -0400",
+      "brushland": "2018-02-22 21:23:17 -0500",
+      "ominous_woods": "2018-05-25 15:46:02 -0400"
     },
     "done": false
   },
@@ -694,6 +718,12 @@
     },
     "done": true
   },
+  "minecraft:end/dragon_breath": {
+    "criteria": {
+      "dragon_breath": "2018-05-16 22:48:35 -0400"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/eucalyptus_planks": {
     "criteria": {
       "has_log": "2018-02-20 21:51:11 -0500"
@@ -748,6 +778,12 @@
     },
     "done": true
   },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2018-05-16 23:24:09 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2018-02-24 20:50:51 -0500"
@@ -764,6 +800,7 @@
     "criteria": {
       "zombie_pigman": "2018-02-26 20:50:06 -0500",
       "stray": "2018-05-05 02:38:17 -0400",
+      "shulker": "2018-05-30 09:26:26 -0400",
       "wither_skeleton": "2018-02-28 15:01:54 -0500",
       "zombie_villager": "2018-02-23 16:00:48 -0500",
       "magma_cube": "2018-02-28 01:00:21 -0500",
@@ -963,6 +1000,12 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2018-05-16 22:43:38 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2018-02-20 21:27:16 -0500"
@@ -1014,6 +1057,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_gray_bonemeal": {
     "criteria": {
       "has_bonemeal": "2018-02-22 22:18:39 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2018-05-25 21:29:21 -0400"
     },
     "done": true
   },
@@ -1463,6 +1512,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_slab": {
+    "criteria": {
+      "has_purpur_block": "2018-05-30 09:27:11 -0400"
+    },
+    "done": true
+  },
   "minecraft:nether/brew_potion": {
     "criteria": {
       "potion": "2018-03-01 13:53:47 -0500"
@@ -1610,6 +1665,12 @@
   "biomesoplenty:recipes/redstone/cherry_fence_gate": {
     "criteria": {
       "has_planks": "2018-03-30 00:19:25 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2018-05-30 09:28:30 -0400"
     },
     "done": true
   },
@@ -2491,6 +2552,12 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2018-05-30 00:13:00 -0400"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/ebony_wooden_slab": {
     "criteria": {
       "has_planks": "2018-02-24 22:38:31 -0500"
@@ -2536,6 +2603,12 @@
   "immersiveengineering:main/place_floodlight": {
     "criteria": {
       "place_floodlight": "2018-04-18 00:33:20 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_block": {
+    "criteria": {
+      "has_gold_block": "2018-05-29 14:59:49 -0400"
     },
     "done": true
   },
@@ -2620,6 +2693,12 @@
   "biomesoplenty:recipes/decorations/willow_fence": {
     "criteria": {
       "has_planks": "2018-02-23 15:21:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/end_bricks": {
+    "criteria": {
+      "has_end_stone": "2018-05-16 22:45:08 -0400"
     },
     "done": true
   },
@@ -2833,6 +2912,12 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2018-05-30 09:26:08 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magma": {
     "criteria": {
       "has_magma_cream": "2018-02-28 01:00:25 -0500"
@@ -2860,6 +2945,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2018-02-23 15:12:44 -0500"
+    },
+    "done": true
+  },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2018-05-17 09:48:23 -0400"
     },
     "done": true
   },
@@ -2932,6 +3023,12 @@
   "minecraft:recipes/building_blocks/pink_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2018-02-25 23:13:48 -0500"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/buildingblocks/celestial_crystal": {
+    "criteria": {
+      "has_item": "2018-05-17 09:29:19 -0400"
     },
     "done": true
   },
@@ -3043,6 +3140,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purpur_pillar": {
+    "criteria": {
+      "has_purpur_block": "2018-05-30 09:27:11 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2018-02-20 21:27:16 -0500"
@@ -3076,6 +3179,12 @@
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-02-22 21:40:34 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2018-05-16 22:43:38 -0400"
     },
     "done": true
   },
@@ -3172,6 +3281,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_hardened_clay": {
     "criteria": {
       "has_hardened_clay": "2018-02-25 23:13:48 -0500"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_drill": {
+    "criteria": {
+      "craft_hammer": "2018-05-24 21:08:00 -0400"
     },
     "done": true
   },

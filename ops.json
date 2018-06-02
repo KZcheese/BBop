@@ -40,5 +40,11 @@
     "name": "KZcheese",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "313c5dc5-847a-428b-ab66-42c8652192ef",
+    "name": "Areth6",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]

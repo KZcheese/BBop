@@ -921,7 +921,12 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "magma_cube": "2018-04-20 23:20:26 -0400",
-      "zombie": "2018-04-20 23:39:23 -0400"
+      "skeleton": "2018-05-24 23:10:37 -0400",
+      "zombie": "2018-04-20 23:39:23 -0400",
+      "silverfish": "2018-05-24 23:25:21 -0400",
+      "witch": "2018-05-25 22:29:21 -0400",
+      "creeper": "2018-05-24 23:10:45 -0400",
+      "enderman": "2018-05-25 22:34:16 -0400"
     },
     "done": false
   },
@@ -1075,6 +1080,12 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2018-05-24 23:09:53 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_the_recipe": "2018-02-21 14:40:46 -0500"
@@ -1132,6 +1143,12 @@
   "biomesoplenty:recipes/redstone/eucalyptus_door": {
     "criteria": {
       "has_the_recipe": "2018-02-21 14:40:46 -0500"
+    },
+    "done": true
+  },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2018-05-24 23:11:44 -0400"
     },
     "done": true
   },
@@ -1647,10 +1664,12 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "forest": "2018-05-24 23:07:44 -0400",
       "deep_ocean": "2018-04-20 22:56:30 -0400",
       "beaches": "2018-04-20 23:03:19 -0400",
       "plains": "2018-04-20 23:03:40 -0400",
-      "ocean": "2018-04-20 23:01:45 -0400"
+      "ocean": "2018-04-20 23:01:45 -0400",
+      "river": "2018-05-24 23:10:17 -0400"
     },
     "done": false
   },
@@ -2367,6 +2386,13 @@
       "has_the_recipe": "2018-02-21 14:40:46 -0500"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "spider_eye": "2018-05-25 22:30:02 -0400",
+      "rotten_flesh": "2018-05-24 23:13:34 -0400"
+    },
+    "done": false
   },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
@@ -3382,6 +3408,12 @@
     },
     "done": true
   },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2018-05-24 23:21:38 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/slime_ball": {
     "criteria": {
       "has_the_recipe": "2018-02-21 14:40:46 -0500"
@@ -3706,6 +3738,12 @@
     },
     "done": true
   },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2018-05-24 23:11:44 -0400"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/white_sandstone": {
     "criteria": {
       "has_the_recipe": "2018-02-21 14:40:46 -0500"
@@ -3817,6 +3855,12 @@
   "biomesoplenty:recipes/buildingblocks/fir_stairs": {
     "criteria": {
       "has_the_recipe": "2018-02-21 14:40:46 -0500"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_drill": {
+    "criteria": {
+      "craft_hammer": "2018-05-24 23:14:48 -0400"
     },
     "done": true
   },
