@@ -263,6 +263,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2018-06-15 18:03:13 -0400"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/redstone/palm_fence_gate": {
     "criteria": {
       "has_the_recipe": "2018-05-21 18:14:59 -0400"
@@ -717,21 +723,28 @@
       "fen": "2018-05-22 15:38:36 -0400",
       "bayou": "2018-05-21 18:26:58 -0400",
       "mountain": "2018-05-22 00:30:02 -0400",
+      "quagmire": "2018-06-17 23:33:35 -0400",
       "marsh": "2018-05-22 20:47:19 -0400",
       "chaparral": "2018-05-22 11:18:09 -0400",
       "mountain_foothills": "2018-05-25 18:13:08 -0400",
+      "cold_desert": "2018-06-17 23:45:12 -0400",
       "coral_reef": "2018-05-22 14:51:22 -0400",
       "bog": "2018-05-22 15:36:06 -0400",
+      "coniferous_forest": "2018-06-17 23:44:27 -0400",
       "shield": "2018-05-22 11:23:28 -0400",
       "mangrove": "2018-05-21 18:55:18 -0400",
       "lush_desert": "2018-05-26 13:13:04 -0400",
       "boreal_forest": "2018-05-22 11:23:20 -0400",
       "cherry_blossom_grove": "2018-05-22 15:24:58 -0400",
       "snowy_forest": "2018-05-22 11:27:25 -0400",
+      "seasonal_forest": "2018-06-17 23:47:03 -0400",
       "kelp_forest": "2018-05-22 11:38:30 -0400",
       "lush_swamp": "2018-05-21 18:14:59 -0400",
+      "fungi_forest": "2018-06-15 23:37:42 -0400",
       "grassland": "2018-05-22 15:23:16 -0400",
       "prairie": "2018-05-22 15:20:35 -0400",
+      "snowy_coniferous_forest": "2018-06-17 23:46:27 -0400",
+      "undergarden": "2018-06-15 23:37:44 -0400",
       "gravel_beach": "2018-05-21 23:59:01 -0400",
       "grove": "2018-05-25 18:15:23 -0400",
       "brushland": "2018-05-26 13:25:22 -0400"
@@ -807,6 +820,12 @@
   "biomesoplenty:recipes/decorations/mangrove_fence": {
     "criteria": {
       "has_the_recipe": "2018-05-21 18:14:59 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2018-06-15 17:51:04 -0400"
     },
     "done": true
   },
@@ -1340,6 +1359,7 @@
   },
   "biomesoplenty:biomesoplenty/terrestrial_artifact": {
     "criteria": {
+      "amber": "2018-06-19 23:38:19 -0400",
       "emerald": "2018-05-25 12:36:48 -0400",
       "sapphire": "2018-05-23 12:07:51 -0400"
     },
@@ -1708,7 +1728,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "frozen_river": "2018-05-22 11:35:36 -0400",
+      "ice_flats": "2018-06-17 23:42:14 -0400",
       "forest": "2018-05-22 15:40:18 -0400",
+      "swampland": "2018-06-17 23:31:50 -0400",
       "deep_ocean": "2018-05-21 18:52:19 -0400",
       "beaches": "2018-05-21 18:56:42 -0400",
       "forest_hills": "2018-05-21 19:10:35 -0400",
@@ -2225,6 +2247,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2018-06-15 23:37:42 -0400"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/decorations/sign_from_bop_wood": {
     "criteria": {
       "has_the_recipe": "2018-05-21 18:14:59 -0400"
@@ -2408,6 +2436,12 @@
   "immersiveengineering:main/multiblock_arcfurnace": {
     "criteria": {
       "form_blastfurnace": "2018-05-28 20:23:09 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2018-06-19 23:39:44 -0400"
     },
     "done": true
   },
@@ -2819,6 +2853,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/multiblock_crusher": {
+    "criteria": {
+      "form_blastfurnace": "2018-06-17 12:21:43 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_the_recipe": "2018-05-21 18:14:59 -0400"
@@ -2948,6 +2988,12 @@
   "minecraft:recipes/decorations/end_crystal": {
     "criteria": {
       "has_the_recipe": "2018-05-21 18:14:59 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2018-06-15 23:37:42 -0400"
     },
     "done": true
   },
@@ -3218,6 +3264,12 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_the_recipe": "2018-05-21 18:14:59 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2018-06-15 23:38:08 -0400"
     },
     "done": true
   },

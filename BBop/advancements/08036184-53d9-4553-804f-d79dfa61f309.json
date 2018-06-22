@@ -1382,6 +1382,7 @@
   "biomesoplenty:biomesoplenty/terrestrial_artifact": {
     "criteria": {
       "peridot": "2018-02-23 01:25:21 -0500",
+      "amber": "2018-06-15 23:22:44 -0400",
       "emerald": "2018-02-20 18:04:17 -0500",
       "sapphire": "2018-03-08 00:38:05 -0500"
     },
@@ -2473,6 +2474,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2018-06-15 23:15:18 -0400"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/magic_stairs": {
     "criteria": {
       "has_the_recipe": "2018-02-20 12:35:31 -0500"
@@ -2511,7 +2518,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "apple": "2018-02-26 20:25:23 -0500"
+      "apple": "2018-02-26 20:25:23 -0500",
+      "carrot": "2018-06-15 21:48:06 -0400"
     },
     "done": false
   },

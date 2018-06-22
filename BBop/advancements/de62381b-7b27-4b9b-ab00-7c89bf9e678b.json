@@ -746,8 +746,10 @@
       "boreal_forest": "2018-04-20 23:26:50 -0400",
       "redwood_forest": "2018-05-31 00:50:42 -0400",
       "cherry_blossom_grove": "2018-02-20 19:40:43 -0500",
+      "visceral_heap": "2018-06-17 22:40:11 -0400",
       "snowy_forest": "2018-04-22 00:14:08 -0400",
       "seasonal_forest": "2018-05-18 00:30:14 -0400",
+      "temperate_rainforest": "2018-06-11 23:06:28 -0400",
       "corrupted_sands": "2018-03-03 23:18:15 -0500",
       "kelp_forest": "2018-02-20 19:49:35 -0500",
       "dead_swamp": "2018-05-22 17:13:22 -0400",
@@ -1825,7 +1827,8 @@
       "cold_beach": "2018-04-22 00:14:00 -0400",
       "river": "2018-02-20 19:37:32 -0500",
       "jungle": "2018-05-30 14:13:35 -0400",
-      "desert": "2018-02-25 00:17:59 -0500"
+      "desert": "2018-02-25 00:17:59 -0500",
+      "stone_beach": "2018-06-18 00:52:44 -0400"
     },
     "done": false
   },
@@ -2577,6 +2580,7 @@
     "criteria": {
       "cooked_beef": "2018-05-22 18:31:25 -0400",
       "apple": "2018-03-03 23:13:22 -0500",
+      "rotten_flesh": "2018-06-14 00:30:09 -0400",
       "cooked_chicken": "2018-05-27 11:20:24 -0400",
       "carrot": "2018-04-21 00:46:16 -0400"
     },
@@ -2771,6 +2775,7 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "bred_sheep": "2018-05-12 15:10:17 -0400",
+      "bred_wolf": "2018-06-18 01:20:40 -0400",
       "bred_cow": "2018-05-12 15:10:06 -0400"
     },
     "done": false
@@ -3676,6 +3681,12 @@
     },
     "done": true
   },
+  "minecraft:end/find_end_city": {
+    "criteria": {
+      "in_city": "2018-06-15 16:42:22 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magma": {
     "criteria": {
       "has_the_recipe": "2018-02-20 19:16:06 -0500"
@@ -3925,6 +3936,12 @@
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_the_recipe": "2018-02-20 19:16:06 -0500"
+    },
+    "done": true
+  },
+  "immersiveengineering:main/craft_heater": {
+    "criteria": {
+      "craft_hammer": "2018-06-15 14:05:36 -0400"
     },
     "done": true
   },
