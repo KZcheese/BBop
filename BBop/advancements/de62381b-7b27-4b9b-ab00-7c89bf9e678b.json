@@ -3176,6 +3176,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/craft_chemthrower": {
+    "criteria": {
+      "craft_hammer": "2018-06-26 21:46:47 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_the_recipe": "2018-02-20 19:16:06 -0500"

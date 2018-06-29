@@ -2102,6 +2102,7 @@
     "criteria": {
       "cooked_porkchop": "2018-03-01 18:11:58 -0500",
       "cooked_mutton": "2018-02-24 21:14:19 -0500",
+      "porkchop": "2018-06-28 20:30:02 -0400",
       "apple": "2018-02-20 22:00:01 -0500",
       "spider_eye": "2018-03-30 14:43:53 -0400",
       "potato": "2018-03-04 18:33:23 -0500",
@@ -2189,6 +2190,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2018-04-07 10:37:04 -0400"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/pink_dye_from_pink_daffodil": {
+    "criteria": {
+      "has_flower": "2018-06-28 20:35:06 -0400"
     },
     "done": true
   },
