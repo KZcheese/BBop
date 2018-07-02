@@ -776,12 +776,6 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/food/shroom_salad": {
-    "criteria": {
-      "has_bowl": "2018-03-29 17:26:20 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2018-02-22 21:40:34 -0500"
@@ -1121,12 +1115,6 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_at_least_9_iron_ingot": "2018-02-23 14:36:12 -0500"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/food/fruit_salad": {
-    "criteria": {
-      "has_bowl": "2018-03-29 17:26:20 -0400"
     },
     "done": true
   },
@@ -1768,6 +1756,12 @@
     },
     "done": true
   },
+  "cfm:root": {
+    "criteria": {
+      "tick": "2018-07-01 19:33:01 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/prismarine": {
     "criteria": {
       "has_prismarine_shard": "2018-02-25 11:39:10 -0500"
@@ -2397,6 +2391,12 @@
     },
     "done": true
   },
+  "cfm:install": {
+    "criteria": {
+      "tick": "2018-07-01 19:33:01 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
     "criteria": {
       "has_black_dye": "2018-02-20 20:25:29 -0500"
@@ -2862,12 +2862,6 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2018-02-20 20:35:20 -0500"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/food/veggie_salad": {
-    "criteria": {
-      "has_bowl": "2018-03-29 17:26:20 -0400"
     },
     "done": true
   },

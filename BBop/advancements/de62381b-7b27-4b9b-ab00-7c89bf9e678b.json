@@ -629,6 +629,13 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/yin_and_yang": {
+    "criteria": {
+      "deathbloom": "2018-07-01 23:55:23 -0400",
+      "glowflower": "2018-07-02 00:01:55 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_the_recipe": "2018-02-20 19:16:06 -0500"
@@ -763,6 +770,7 @@
       "snowy_coniferous_forest": "2018-05-08 22:15:45 -0400",
       "tundra": "2018-05-10 01:40:59 -0400",
       "undergarden": "2018-03-03 23:15:39 -0500",
+      "origin_island": "2018-07-01 23:22:10 -0400",
       "gravel_beach": "2018-02-20 19:37:30 -0500",
       "grove": "2018-04-26 23:18:22 -0400",
       "lavender_fields": "2018-05-29 01:57:59 -0400",
@@ -774,9 +782,21 @@
     },
     "done": false
   },
+  "biomesoplenty:recipes/decorations/beach_terrarium": {
+    "criteria": {
+      "has_the_recipe": "2018-06-29 19:11:29 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
       "has_the_recipe": "2018-02-20 19:16:06 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2018-07-01 14:45:35 -0400"
     },
     "done": true
   },
@@ -937,12 +957,6 @@
     "done": true
   },
   "minecraft:recipes/decorations/black_bed": {
-    "criteria": {
-      "has_the_recipe": "2018-02-20 19:16:06 -0500"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/food/shroom_salad": {
     "criteria": {
       "has_the_recipe": "2018-02-20 19:16:06 -0500"
     },
@@ -1356,12 +1370,6 @@
     "done": true
   },
   "minecraft:recipes/building_blocks/iron_block": {
-    "criteria": {
-      "has_the_recipe": "2018-02-20 19:16:06 -0500"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/food/fruit_salad": {
     "criteria": {
       "has_the_recipe": "2018-02-20 19:16:06 -0500"
     },
@@ -2114,6 +2122,12 @@
     },
     "done": true
   },
+  "cfm:root": {
+    "criteria": {
+      "tick": "2018-06-29 19:11:29 -0400"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/palm_stairs": {
     "criteria": {
       "has_the_recipe": "2018-02-20 19:16:06 -0500"
@@ -2499,12 +2513,6 @@
     "done": true
   },
   "minecraft:recipes/building_blocks/diorite": {
-    "criteria": {
-      "has_the_recipe": "2018-02-20 19:16:06 -0500"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/food/ambrosia": {
     "criteria": {
       "has_the_recipe": "2018-02-20 19:16:06 -0500"
     },
@@ -2936,6 +2944,12 @@
     },
     "done": true
   },
+  "cfm:install": {
+    "criteria": {
+      "tick": "2018-06-29 19:11:29 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
     "criteria": {
       "has_the_recipe": "2018-02-20 19:16:06 -0500"
@@ -3356,6 +3370,12 @@
     },
     "done": true
   },
+  "biomesoplenty:biomesoplenty/flesh_and_blood": {
+    "criteria": {
+      "flesh": "2018-07-01 16:39:19 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_the_recipe": "2018-02-20 19:16:06 -0500"
@@ -3411,12 +3431,6 @@
     "done": true
   },
   "minecraft:recipes/building_blocks/white_stained_glass": {
-    "criteria": {
-      "has_the_recipe": "2018-02-20 19:16:06 -0500"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/decorations/sapling_terrarium": {
     "criteria": {
       "has_the_recipe": "2018-02-20 19:16:06 -0500"
     },
@@ -3495,12 +3509,6 @@
     "done": true
   },
   "biomesoplenty:recipes/misc/black_dye_from_deathbloom": {
-    "criteria": {
-      "has_the_recipe": "2018-02-20 19:16:06 -0500"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/food/veggie_salad": {
     "criteria": {
       "has_the_recipe": "2018-02-20 19:16:06 -0500"
     },
@@ -3786,6 +3794,12 @@
   "immersiveengineering:main/root": {
     "criteria": {
       "hold_manual": "2018-05-02 21:06:31 -0400"
+    },
+    "done": true
+  },
+  "cfm:copy_item": {
+    "criteria": {
+      "printer_copy": "2018-06-30 00:35:37 -0400"
     },
     "done": true
   },
@@ -4102,12 +4116,6 @@
     "done": true
   },
   "biomesoplenty:recipes/food/bowl_of_rice": {
-    "criteria": {
-      "has_the_recipe": "2018-02-20 19:16:06 -0500"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/misc/brown_dye_from_pinecone": {
     "criteria": {
       "has_the_recipe": "2018-02-20 19:16:06 -0500"
     },

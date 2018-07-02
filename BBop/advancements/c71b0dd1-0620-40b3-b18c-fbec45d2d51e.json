@@ -926,12 +926,6 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/food/shroom_salad": {
-    "criteria": {
-      "has_the_recipe": "2018-05-21 18:14:59 -0400"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/buildingblocks/tanzanite_block": {
     "criteria": {
       "has_the_recipe": "2018-05-21 18:14:59 -0400"
@@ -1318,12 +1312,6 @@
     "done": true
   },
   "minecraft:recipes/building_blocks/iron_block": {
-    "criteria": {
-      "has_the_recipe": "2018-05-21 18:14:59 -0400"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/food/fruit_salad": {
     "criteria": {
       "has_the_recipe": "2018-05-21 18:14:59 -0400"
     },
@@ -2030,6 +2018,12 @@
     },
     "done": true
   },
+  "cfm:root": {
+    "criteria": {
+      "tick": "2018-07-01 15:14:43 -0400"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/palm_stairs": {
     "criteria": {
       "has_the_recipe": "2018-05-21 18:14:59 -0400"
@@ -2415,12 +2409,6 @@
     "done": true
   },
   "minecraft:recipes/building_blocks/diorite": {
-    "criteria": {
-      "has_the_recipe": "2018-05-21 18:14:59 -0400"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/food/ambrosia": {
     "criteria": {
       "has_the_recipe": "2018-05-21 18:14:59 -0400"
     },
@@ -2844,6 +2832,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2018-05-21 18:14:59 -0400"
+    },
+    "done": true
+  },
+  "cfm:install": {
+    "criteria": {
+      "tick": "2018-07-01 15:14:43 -0400"
     },
     "done": true
   },
@@ -3339,12 +3333,6 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/decorations/sapling_terrarium": {
-    "criteria": {
-      "has_the_recipe": "2018-05-21 18:14:59 -0400"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/transportation/boat_pine": {
     "criteria": {
       "has_the_recipe": "2018-05-21 18:14:59 -0400"
@@ -3418,12 +3406,6 @@
     "done": true
   },
   "biomesoplenty:recipes/misc/black_dye_from_deathbloom": {
-    "criteria": {
-      "has_the_recipe": "2018-05-21 18:14:59 -0400"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/food/veggie_salad": {
     "criteria": {
       "has_the_recipe": "2018-05-21 18:14:59 -0400"
     },
@@ -3983,12 +3965,6 @@
     "done": true
   },
   "biomesoplenty:recipes/food/bowl_of_rice": {
-    "criteria": {
-      "has_the_recipe": "2018-05-21 18:14:59 -0400"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/misc/brown_dye_from_pinecone": {
     "criteria": {
       "has_the_recipe": "2018-05-21 18:14:59 -0400"
     },
