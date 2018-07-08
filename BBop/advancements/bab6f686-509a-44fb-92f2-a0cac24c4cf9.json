@@ -702,6 +702,12 @@
     },
     "done": false
   },
+  "biomesoplenty:recipes/decorations/beach_terrarium": {
+    "criteria": {
+      "has_the_recipe": "2018-07-03 21:41:54 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/yellow_dye_from_sunflower": {
     "criteria": {
       "has_the_recipe": "2018-02-21 14:40:46 -0500"
@@ -864,12 +870,6 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/food/shroom_salad": {
-    "criteria": {
-      "has_the_recipe": "2018-02-21 14:40:46 -0500"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/buildingblocks/tanzanite_block": {
     "criteria": {
       "has_the_recipe": "2018-02-21 14:40:46 -0500"
@@ -925,6 +925,7 @@
       "zombie": "2018-04-20 23:39:23 -0400",
       "silverfish": "2018-05-24 23:25:21 -0400",
       "witch": "2018-05-25 22:29:21 -0400",
+      "spider": "2018-07-03 22:41:56 -0400",
       "creeper": "2018-05-24 23:10:45 -0400",
       "enderman": "2018-05-25 22:34:16 -0400"
     },
@@ -1255,12 +1256,6 @@
     "done": true
   },
   "minecraft:recipes/building_blocks/iron_block": {
-    "criteria": {
-      "has_the_recipe": "2018-02-21 14:40:46 -0500"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/food/fruit_salad": {
     "criteria": {
       "has_the_recipe": "2018-02-21 14:40:46 -0500"
     },
@@ -1937,6 +1932,12 @@
     },
     "done": true
   },
+  "cfm:root": {
+    "criteria": {
+      "tick": "2018-07-03 21:41:54 -0400"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/palm_stairs": {
     "criteria": {
       "has_the_recipe": "2018-02-21 14:40:46 -0500"
@@ -2316,12 +2317,6 @@
     "done": true
   },
   "minecraft:recipes/building_blocks/diorite": {
-    "criteria": {
-      "has_the_recipe": "2018-02-21 14:40:46 -0500"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/food/ambrosia": {
     "criteria": {
       "has_the_recipe": "2018-02-21 14:40:46 -0500"
     },
@@ -2727,6 +2722,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_the_recipe": "2018-02-21 14:40:46 -0500"
+    },
+    "done": true
+  },
+  "cfm:install": {
+    "criteria": {
+      "tick": "2018-07-03 21:41:54 -0400"
     },
     "done": true
   },
@@ -3180,12 +3181,6 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/decorations/sapling_terrarium": {
-    "criteria": {
-      "has_the_recipe": "2018-02-21 14:40:46 -0500"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/transportation/boat_pine": {
     "criteria": {
       "has_the_recipe": "2018-03-08 15:20:33 -0500"
@@ -3259,12 +3254,6 @@
     "done": true
   },
   "biomesoplenty:recipes/misc/black_dye_from_deathbloom": {
-    "criteria": {
-      "has_the_recipe": "2018-02-21 14:40:46 -0500"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/food/veggie_salad": {
     "criteria": {
       "has_the_recipe": "2018-02-21 14:40:46 -0500"
     },
@@ -3805,12 +3794,6 @@
     "done": true
   },
   "biomesoplenty:recipes/food/bowl_of_rice": {
-    "criteria": {
-      "has_the_recipe": "2018-02-21 14:40:46 -0500"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/misc/brown_dye_from_pinecone": {
     "criteria": {
       "has_the_recipe": "2018-02-21 14:40:46 -0500"
     },
