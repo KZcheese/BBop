@@ -741,6 +741,7 @@
       "chaparral": "2018-02-25 00:17:33 -0500",
       "flower_island": "2018-05-21 02:16:38 -0400",
       "wetland": "2018-05-22 17:13:17 -0400",
+      "flower_field": "2018-07-08 22:34:52 -0400",
       "mystic_grove": "2018-05-31 00:58:04 -0400",
       "mountain_foothills": "2018-05-02 00:03:17 -0400",
       "cold_desert": "2018-05-22 01:08:35 -0400",
@@ -944,6 +945,12 @@
     },
     "done": true
   },
+  "immersiveengineering:main/upgrade_revolver": {
+    "criteria": {
+      "code_trigger": "2018-07-11 23:24:21 -0400"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/buildingblocks/eucalyptus_planks": {
     "criteria": {
       "has_the_recipe": "2018-02-20 19:16:06 -0500"
@@ -1038,6 +1045,7 @@
       "silverfish": "2018-03-30 00:24:30 -0400",
       "cave_spider": "2018-04-22 00:28:32 -0400",
       "witch": "2018-05-18 23:38:03 -0400",
+      "guardian": "2018-07-20 01:25:27 -0400",
       "spider": "2018-03-04 17:37:39 -0500",
       "ghast": "2018-03-04 17:59:43 -0500",
       "creeper": "2018-02-25 00:26:43 -0500",
